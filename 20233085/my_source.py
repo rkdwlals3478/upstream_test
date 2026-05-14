@@ -1,8 +1,8 @@
-SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: MIT
 
 MIT License
 
-Copyright (c) 2026 cwnu-opensrcsw
+Copyright (c) 2026 cwnu-opensricsw
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
